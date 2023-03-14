@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 from ctypes import cast
 from pathlib import Path
-# from decouple import config
 from django import conf
 from traitlets import default
 
