@@ -14,7 +14,6 @@ from ctypes import cast
 from pathlib import Path
 from django import conf
 from decouple import config
-from traitlets import default
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
