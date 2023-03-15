@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    /* background: rgb(31, 31, 75);
+    background: linear-gradient(90deg, rgba(31, 31, 75) 0%, rgba(0,0,0,1) 15%); */
 }
 
 body p {
